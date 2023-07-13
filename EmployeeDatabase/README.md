@@ -15,4 +15,5 @@ Updated Database after adding records
 Deleting a record
 <img width="960" alt="7" src="https://github.com/iamsouvik9/EmployeeDatabase/assets/79768737/f0265cf8-2d81-48f6-ad3b-aaff1fe2c69c">
 Database View
-<img width="960" alt="9" src="https://github.com/iamsouvik9/EmployeeDatabase/assets/79768737/69a339f1-7e54-4c68-b44a-3b5ead36504e">
+
+<img width="960" alt="Untitled" src="https://github.com/iamsouvik9/EmployeeDatabase/assets/79768737/7eb9bf26-6862-466c-ad64-a5c9bb792469">
